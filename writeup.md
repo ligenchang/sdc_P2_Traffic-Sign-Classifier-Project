@@ -19,10 +19,10 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./img/visualization.jpg "Visualization"
+[image1]: ./img/Visualization.JPG "Visualization"
 [image2]: ./img/grayscale.jpg "Grayscaling"
-[image3]: ./img/augmented.jpg "Augmented"
-[image4]: ./img/newimage.png "newimage"
+[image3]: ./img/augmented.png "Augmented"
+[image4]: ./img/newimage.JPG "newimage"
 [image5]: ./examples/placeholder.png "Traffic Sign 2"
 [image6]: ./examples/placeholder.png "Traffic Sign 3"
 [image7]: ./examples/placeholder.png "Traffic Sign 4"
