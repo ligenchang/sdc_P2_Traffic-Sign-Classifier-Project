@@ -182,7 +182,7 @@ The model was able to correctly guess 4 of the 5 traffic signs, which gives an a
 
 The code for making predictions on my final model is located in the 11th cell of the Ipython notebook.
 
-For the first image, the model is relatively sure that this is a stop sign (probability of 0.36), and the image does contain a proper priority sign. The top five soft max probabilities were
+For the third image, the model is relatively sure that this is a stop sign (probability of 0.36), and the image does contain a proper priority sign. The top five soft max probabilities were
 
 | Probability         	|     Prediction	        					| 
 |:---------------------:|:---------------------------------------------:| 
