@@ -186,14 +186,14 @@ For the third image, the model is relatively sure that this is a stop sign (prob
 
 | Probability         	|     Prediction	        					| 
 |:---------------------:|:---------------------------------------------:| 
-| .79        			| Priority road 12   									| 
-| .28     				| Road work 25										|
-| .19					| Priority road 12											|
-| .50	      			| Speed limit (30km/h)	1				 				|
-| .26				    | Bicycles crossing 29    							|
+| 1        			    | Priority road 12   									| 
+| 1    				    | Road work 25										|
+| 0.52					| Priority road 12											|
+| 1	      			    | Speed limit (30km/h)	1				 				|
+| 0.99				    | Bicycles crossing 29    							|
 
 
-For the third image, it is a stop sign, but it was stretched so that height and weight is not in it's orignal constraint ratio. It's recognized as Priority road instead of STOP unfortunatelly. However, the probability of the first 2 are quite close, it's 19.44841766,  19.34706116. the stop sign is the 19.34706116 probablity.
+For the third image, it is a stop sign, but it was stretched so that height and weight is not in it's orignal constraint ratio. It's recognized as Priority road instead of STOP unfortunatelly. However, the probability of the first 2 are quite close, it's 0.52,  0.47. the stop sign is the 0.47.
 
 
 ### (Optional) Visualizing the Neural Network (See Step 4 of the Ipython notebook for more details)
